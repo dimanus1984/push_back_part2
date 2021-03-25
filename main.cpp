@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//тест
 #define tab "\t"
 
 void FillRand(int arr[], const int n);
